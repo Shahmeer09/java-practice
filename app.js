@@ -32,3 +32,33 @@
 // const name = `shahmeer`;
 // const age = `19`
 // console.log(`my  name is ${name} and my age is ${age}`);
+
+
+
+
+// ALLERTS ;
+
+// alert("hello world !");
+// alert("assalam o  alaikum");
+// alert("hello \ni am shahmeer \nage 19 ");
+
+// VARIABLES FOR STRING ;
+
+// let name = 'shahmeer';
+// let country = 'pakistan';
+// alert(name  + ' ' + country); 
+
+// let name = "shahmeer"
+// alert(name);
+
+let name = prompt("enter your name");
+let age = prompt("enter your correct age");
+console.log(name ,  age);
+if(age >= 18){
+     console.log("you are allowed");
+    }
+    else{
+        console.log("you are not allowed");
+       }
+
+
