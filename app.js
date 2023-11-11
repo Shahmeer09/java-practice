@@ -51,14 +51,25 @@
 // let name = "shahmeer"
 // alert(name);
 
-let name = prompt("enter your name");
-let age = prompt("enter your correct age");
-console.log(name ,  age);
-if(age >= 18){
-     console.log("you are allowed");
-    }
-    else{
-        console.log("you are not allowed");
-       }
+// let name = prompt("enter your name");
+// let age = prompt("enter your correct age");
+
+// console.log(name ,  age);
+// if(age >= 18){
+//      alert("Congratulation you are allowed");
+//     }
+//     else{
+//         alert(" Oopps ! you are not allowed");
+//        }
 
 
+// ARRAYS :
+
+// let cities = ["karachi", "lahore", "Islamabad", "dubai", "australia", "sydney"];
+// console.log(cities);
+
+// let city = ["karachi", "lahore", "Islamabad", "dubai", "australia", "sydney"];
+// console.log(city[0]);
+
+// let mixarr = ["karachi", true , "Islamabad", false, 3 , 9];
+// console.log(mixarr[4]);
