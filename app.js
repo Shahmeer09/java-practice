@@ -73,3 +73,26 @@
 
 // let mixarr = ["karachi", true , "Islamabad", false, 3 , 9];
 // console.log(mixarr[4]);
+
+
+
+const img = document.querySelector('img')
+const para = document.querySelector('p')
+
+function toss(clicked){
+    let roundNumber = Math.floor(Math.random()*2);
+    console.log(roundNumber);
+    if(clicked === 'masjid' && roundNumber === 0 || clicked === 'chand' && roundNumber === 1){
+        console.log(clicked , 'toss jeet gai');
+        para.innerHTML = 'toss jeet gai'
+    }else{
+        console.log('toss haar gaye');
+        para.innerHTML = 'toss haar gaye'
+}
+if (roundNumber === 1){
+    Image.scr = ''
+}else{
+    Image.scr = ''
+}
+
+}
