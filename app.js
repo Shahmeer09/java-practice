@@ -128,21 +128,24 @@
 //     }
 
 
-let currentDate = new Date('Octuber 21 , 2004');
-console.log(currentDate);
+// let currentDate = new Date('Octuber 21 , 2004');
+// console.log(currentDate);
 
-let grade = 'B';
+// let grade = 'B';
 
-switch (grade) {
-    case 'A':
-        console.log('A grade');
-        break
-    case 'B' :
-        console.log('B grade');
-        break
-    case 'C' :
-        console.log('C grade');
-        break
-    default:
-        console.log('fail ho gai');
-}
+// switch (grade) {
+//     case 'A':
+//         console.log('A grade');
+//         break
+//     case 'B' :
+//         console.log('B grade');
+//         break
+//     case 'C' :
+//         console.log('C grade');
+//         break
+//     default:
+//         console.log('fail ho gai');
+// }
+
+
+
