@@ -179,3 +179,7 @@
 //     return
 // }
 
+// let currentDate = new Date();
+// let days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
+// console.log(days[currentDate,currentDate]);
+
