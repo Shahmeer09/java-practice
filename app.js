@@ -157,25 +157,25 @@
 
 // ARRAY :
 
-const students = ['shahmeer','hasssan','raza'];
-console.log(students);
+// const students = ['shahmeer','hasssan','raza'];
+// console.log(students);
 
-let a = 12;
-let b = 19;
-sumoftwonumbers(a, b);
+// let a = 12;
+// let b = 19;
+// sumoftwonumbers(a, b);
 
-let c = 20
-let d = 10
-sumoftwonumbers(c, d);
+// let c = 20
+// let d = 10
+// sumoftwonumbers(c, d);
 
-let e = 10
-let f = 5
-sumoftwonumbers(e , f);
+// let e = 10
+// let f = 5
+// sumoftwonumbers(e , f);
 
-function sumoftwonumbers(a, b) {
-    let sum = a + b;
+// function sumoftwonumbers(a, b) {
+//     let sum = a + b;
     
-    console.log("The Result is", sum);
-    return
-}
+//     console.log("The Result is", sum);
+//     return
+// }
 
